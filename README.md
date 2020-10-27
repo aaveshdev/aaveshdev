@@ -1,5 +1,7 @@
-### Hi there 👋
+### 👋 Hi there, I'm Aavesh Jilani.
 
+
+<div ><img src="https://github.com/aaveshdev/aaveshdev/blob/main/Aavesh.jpg?raw=true" width="200px" height="200px"></div>
 <!--
 **aaveshdev/aaveshdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
