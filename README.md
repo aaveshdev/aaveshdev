@@ -19,9 +19,9 @@ I seek to contribute to this world with my algorithms and abstractions.</strong>
 
 <br>
 
-###  <img src="https://dragon-lang.org/assets/img/logo.png" height="40"> **aboutMe.js**
+###  <img src="https://dragon-lang.org/assets/img/logo.png" height="40"> **aboutMe.dgn**
 
-```javascript
+```dragon
 const profile = {
   education: "post-Graduate",
   otherAlias: "Full Stack Developer",
