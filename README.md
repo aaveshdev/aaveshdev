@@ -19,7 +19,7 @@ I seek to contribute to this world with my algorithms and abstractions.</strong>
 
 <br>
 
-###  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"> **aboutMe.js**
+###  <img src="https://dragon-lang.org/assets/img/logo.png" height="20"> **aboutMe.js**
 
 ```javascript
 const profile = {
