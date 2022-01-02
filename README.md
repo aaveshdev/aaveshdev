@@ -22,7 +22,7 @@ I seek to contribute to this world with my algorithms and abstractions.</strong>
 ###  <img src="https://dragon-lang.org/assets/img/logo.png" height="40"> **aboutMe.dgn**
 
 ```dragon
-const profile = {
+profile = {
   education: "post-Graduate",
   otherAlias: "Full Stack Developer",
   codesIn: ["Javascript", "HTML", "CSS", "Python", "Bash", "Java", "PHP", "C++", "Dragon", " Citrine", "Julia", "C#"],
