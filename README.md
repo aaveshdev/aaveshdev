@@ -10,7 +10,7 @@ I seek to contribute to this world with my algorithms and abstractions.</strong>
 <img src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png" width="30px" height="30px" alt="Linkedin Badge">
 </a>
 <a target="_blank" href="https://twitter.com/AaveshJilani">
-<img src="https://pitlochryfestivaltheatre.com/wp-content/uploads/2020/04/2-27646_twitter-logo-png-transparent-background-logo-twitter-png-1024x1024.png" width="30px" height="30px" alt="Twitter Badge">
+<img src="https://img.icons8.com/fluency/344/twitter.png" width="30px" height="30px" alt="Twitter Badge">
 </a>
 <a target="_blank" href="https://instagram.com/edward_legion/">
 <img src="https://i.pinimg.com/originals/a2/5f/4f/a25f4f58938bbe61357ebca42d23866f.png" width="30px" height="30px" alt="Instagram Badge">
