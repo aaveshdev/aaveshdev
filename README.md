@@ -27,7 +27,7 @@ profile = {
   otherAlias: "Full Stack Developer",
   codesIn: ["Javascript", "HTML", "CSS", "Python", "Bash", "Java", "PHP", "C++", "Dragon", " Citrine", "Julia", "C#"],
   currentlylearning: ["Scala", "Ruby","Rust"],
-  toolsUsing: ["AWS", "Wordpress", "Bootstrap", "Firebase", "Xampp", " Netbeans", "IntelliJIdead", "Android Studio"],
+  toolsUsing: ["AWS", "Wordpress", "Bootstrap", "Firebase", "Xampp", " Netbeans", "IntelliJIdea", "Android Studio"],
   availableForHire: true
 }
 ```
