@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Aavesh Jilani.
 
 
-<div ><img src="https://github.com/aaveshdev/aaveshdev/blob/main/Aavesh.jpg?raw=true" width="200px" height="200px"></div>
+<div ><img src="https://github.com/aaveshdev/aaveshdev/blob/main/Aavesh1.jpg?raw=true" width="200px" height="200px"></div>
 
 <h3 align="left"><strong>
 I seek to contribute to this world with my algorithms and abstractions.</strong></h3>
