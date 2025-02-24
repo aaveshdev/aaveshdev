@@ -11,9 +11,9 @@
 profile = {
   education: "post-Graduate",
   otherAlias: "Full Stack Developer",
-  codesIn: ["Javascript", "HTML", "CSS", "Python", "Bash", "Java", "PHP", "C++", "Dragon", " Citrine", "Julia", "C#"],
+  codesIn: ["Javascript", "Python", "Bash", "Java", "PHP", "C++", "Dragon", " Citrine", "Julia", "C#","React","Node.js", "Next.js","Express.js","Aroma.js],
   currentlylearning: ["Scala", "Ruby","Rust"],
-  toolsUsing: ["AWS", "Wordpress", "Bootstrap", "Firebase", "Xampp", " Netbeans", "IntelliJIdea", "Android Studio"],
+  toolsUsing: ["AWS", "Wordpress", "Bootstrap", "Firebase", "Xampp", " Netbeans", "IntelliJIdea", "Android Studio", "XCode","MingW","Cygwin],
   availableForHire: true
 }
 ```
