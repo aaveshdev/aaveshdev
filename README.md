@@ -1,21 +1,7 @@
 ### 👋 Hi there, I'm Aavesh Jilani.
 
 
-<div ><img src="https://github.com/aaveshdev/aaveshdev/blob/main/Aavesh1.jpg?raw=true" width="200px" height="200px"></div>
-
-<h3 align="left"><strong>
-I seek to contribute to this world with my algorithms and abstractions.</strong></h3>
-
-<a target="_blank" href="https://linkedin.com/in/aaveshjilani/">
-<img src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png" width="30px" height="30px" alt="Linkedin Badge">
-</a>
-<a target="_blank" href="https://twitter.com/AaveshJilani">
-<img src="https://img.icons8.com/fluency/344/twitter.png" width="30px" height="30px" alt="Twitter Badge">
-</a>
-<a target="_blank" href="https://instagram.com/edward_legion/">
-<img src="https://i.pinimg.com/originals/a2/5f/4f/a25f4f58938bbe61357ebca42d23866f.png" width="30px" height="30px" alt="Instagram Badge">
-</a>
-<br>
+<div align="center"> <img src="https://github.com/aaveshdev/aaveshdev/blob/main/Aavesh1.jpg?raw=true" width="200px" height="200px" style="border-radius: 50%; box-shadow: 0px 0px 20px rgba(0,255,255,0.8);"> </div> <h3 align="center"> <strong>Exploring the digital frontier with algorithms & abstractions.</strong> </h3> <div align="center"> <a target="_blank" href="https://linkedin.com/in/aaveshjilani/"> <img src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png" width="40px" alt="Linkedin"> </a> <a target="_blank" href="https://twitter.com/AaveshJilani"> <img src="https://img.icons8.com/fluency/344/twitter.png" width="40px" alt="Twitter"> </a> <a target="_blank" href="https://instagram.com/edward_legion/"> <img src="https://i.pinimg.com/originals/a2/5f/4f/a25f4f58938bbe61357ebca42d23866f.png" width="40px" alt="Instagram"> </a> </div>
 
 <br>
 
