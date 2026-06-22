@@ -13,7 +13,7 @@ profile = {
   codesIn: ["Javascript", "Python", "Bash", "Java", "PHP", "C++", "Dragon", " Citrine", "Julia", "C#","React","Node.js", "Next.js","Express.js","Aroma.js],
   currentlylearning: ["Scala", "Ruby","Rust"],
   toolsUsing: ["AWS", "Wordpress", "Bootstrap", "Firebase", "Xampp", " Netbeans", "IntelliJIdea", "Android Studio", "XCode","MingW","Cygwin],
-  availableForHire: true
+  availableForHire: True
 }
 ```
 
